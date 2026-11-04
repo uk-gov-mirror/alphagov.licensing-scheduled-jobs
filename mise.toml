@@ -1,0 +1,8 @@
+[tools]
+uv = "0.13.5"
+python = "3.14"
+pre-commit = "4.7.0"
+
+[settings]
+python.uv_venv_auto = "source"
+env_shell_expand = false
